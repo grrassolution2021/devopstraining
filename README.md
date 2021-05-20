@@ -1,3 +1,4 @@
+![devops new](https://user-images.githubusercontent.com/84069541/118947667-3071ab00-b975-11eb-824f-ccbae5a58f34.jpg)
 # devopstraining![image](https://user-images.githubusercontent.com/84069541/117953733-f0d30f80-b333-11eb-9bbc-3b1493b2ca56.png)
 Best DevOps Online Training Course
 
